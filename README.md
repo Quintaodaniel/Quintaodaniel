@@ -2,7 +2,7 @@
 
 **`Rising Programmer`**
 
-My name is Daniel, I'm 21 years old, and I'm a Computer Science student at UERJ, from Rio de Janeiro, Brazil. Here, I share my studies, projects, and experiments in the field of programming and software development. I'm building my foundation with focus, dedication, and a strong desire to grow as a tech professional.
+Hi! I'm Daniel, a 21-year-old Computer Science student at UERJ, based in Rio de Janeiro, Brazil. Here you'll find my projects, studies, and coding experiments as I dive deeper into the world of software development. I'm focused on building a solid foundation with dedication and a real passion for growing as a tech professional.
 
 
 <div align="center">
