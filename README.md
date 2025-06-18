@@ -9,8 +9,8 @@ My name is Daniel, I'm 21 years old, and I'm a Computer Science student at UERJ,
 
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:danielqferes@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/quintaodaniel)
-[![Instagram](https://img.shields.io/badge/Instagram-%40quintao__daniel-E4405F?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/quintao_daniel)](https://instagram.com/quintao_daniel)  
-[![Discord](https://img.shields.io/badge/Discord-quintao__daniel-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/395948147878264833)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/quintao_daniel)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=Discord&logoColor=white)](https://discordapp.com/users/395948147878264833)
 
 </div>
 <div align="center">
