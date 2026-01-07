@@ -9,9 +9,9 @@ I'm Daniel Quintão. Here is a brief overview of my profile:
 ---
 
 ### Statistics
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Quintaodaniel&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quintaodaniel&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" alt="Top Languages" />
+<p align="center">
+  <img height="160rem" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Quintaodaniel&theme=github_dark"/>
+  <img height="160rem" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Quintaodaniel&theme=github_dark"/>
 </p>
 
 ---
