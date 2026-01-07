@@ -19,8 +19,7 @@ I'm Daniel Quintão. Here is a brief overview of my profile:
 ### Projects
 | Project | Description | Technologies |
 | :--- | :--- | :--- |
-| [Project Name](link) | Brief description of the solution or problem solved. | `Python`, `SQL` |
-| [Project Name](link) | Brief description of the solution or problem solved. | `JavaScript`, `CSS` |
+| [Cafe sales data cleaning](https://github.com/Quintaodaniel/cafe-sales-data-cleaning) | Data Wrangling practice. | `Python`, `Pandas`, `Jupyter` |
 
 ---
 
