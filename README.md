@@ -20,7 +20,7 @@ I'm Daniel Quintão. Here is a brief overview of my profile:
 | Project | Description | Technologies |
 | :--- | :--- | :--- |
 | [Cafe sales data cleaning](https://github.com/Quintaodaniel/cafe-sales-data-cleaning) | Data Wrangling practice. | `Python`, `Pandas`, `Jupyter` |
-
+| [Teams attendance pipeline](https://github.com/Quintaodaniel/teams-attendance-pipeline) | Automated pipeline to clean, process, and filter Microsoft Teams attendance reports based on participant duration. | `Python`, `Pandas` |
 ---
 
 ### Skills & Technologies
