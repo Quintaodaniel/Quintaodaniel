@@ -19,7 +19,7 @@ I'm Daniel Quintão. Here is a brief overview of my profile:
 ### Projects
 | Project | Description | Technologies |
 | :--- | :--- | :--- |
-| [Olist E-commerce End-to-End](https://github.com/Quintaodaniel/olist-ecommerce-analysis) | End-to-end data pipeline: SQL ingestion, advanced cleaning with DuckDB, and strategic EDA to uncover logistical bottlenecks and sales trends. | `Python`, `DuckDB`, `SQL`, `Pandas`, `Seaborn` |
+| [Olist E-commerce](https://github.com/Quintaodaniel/olist-project) | End-to-end data pipeline: SQL ingestion, advanced cleaning with DuckDB, and strategic EDA to uncover logistical bottlenecks and sales trends. | `Python`, `DuckDB`, `SQL`, `Pandas`, `Seaborn` |
 | [Teams attendance pipeline](https://github.com/Quintaodaniel/teams-attendance-pipeline) | Automated pipeline to clean, process, and filter Microsoft Teams attendance reports based on participant duration. | `Python`, `Pandas` |
 | [Cafe sales data cleaning](https://github.com/Quintaodaniel/cafe-sales-data-cleaning) | Data Wrangling practice. | `Python`, `Pandas`, `Jupyter` |
 | [C Programming Fundamentals](https://github.com/Quintaodaniel/C) | Implementation of algorithms and low-level concepts to demonstrate proficiency in memory management and logic. | `C` |
