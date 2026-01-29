@@ -1,10 +1,12 @@
+<div align="center">
+
 # Hi there 👋
 I'm Daniel Quintão. Here is a brief overview of my profile:
 
-- **Academic:** Undergraduate Computer Science student at UERJ (4th semester).
-- **Professional:** Currently working at the TJRJ Mediation School (Court of Justice of Rio de Janeiro).
-- **Focus:** Data Science and AI, specializing in the Data Scientist career path.
-- **Goal:** Applying mathematical logic and computational tools to extract value from large-scale datasets.
+**Academic:** Undergraduate Computer Science student at UERJ (4th semester). <br>
+**Professional:** Currently working at the TJRJ Mediation School (Court of Justice of Rio de Janeiro). <br>
+**Focus:** Data Science and AI, specializing in the Data Scientist career path. <br>
+**Goal:** Applying mathematical logic and computational tools to extract value from large-scale datasets. <br>
 
 ---
 
@@ -32,6 +34,8 @@ I'm Daniel Quintão. Here is a brief overview of my profile:
 ---
 
 ### Contact
-- **LinkedIn:** [linkedin.com/in/quintaodaniel](https://www.linkedin.com/in/quintaodaniel)
-- **E-mail:** danielqferes@outlook.com
-- **Phone:** +55 (21) 97002-2586
+**LinkedIn:** [linkedin.com/in/quintaodaniel](https://www.linkedin.com/in/quintaodaniel) <br>
+**E-mail:** danielqferes@outlook.com <br>
+**Phone:** +55 (21) 97002-2586 <br>
+
+<!div>
