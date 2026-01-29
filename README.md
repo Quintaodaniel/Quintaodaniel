@@ -38,4 +38,4 @@ I'm Daniel Quintão. Here is a brief overview of my profile:
 **E-mail:** danielqferes@outlook.com <br>
 **Phone:** +55 (21) 97002-2586 <br>
 
-<!div>
+</div>
